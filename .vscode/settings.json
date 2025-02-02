@@ -8,5 +8,8 @@
         "**/Thumbs.db": true,
         "**/.ruby-lsp": true,
         ".mule": true
+    },
+    "[rocket-mvbasic]": {
+        "editor.codeLens": false
     }
 }
